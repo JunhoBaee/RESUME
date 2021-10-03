@@ -7,9 +7,9 @@
   #### university : hallym university
 
   > 취미
-  > > 스키
-  > >  낚시
-  > >  여행
+  >> 스키
+  >> 낚시
+  >> 여행
   
    ## 사용 언어
     1. java
