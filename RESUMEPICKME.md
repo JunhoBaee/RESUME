@@ -49,6 +49,6 @@
 
 
 
-[github]:http://github.com/JunhoBae/RESUME
+[github]:http://github.com/JunhoBae/
 [naver]:http://qo6111@naver.com
 [google]:http://qo61111@gmail.com
