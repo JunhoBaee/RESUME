@@ -25,8 +25,8 @@
 
 ---
 >email
->>[<i>네이버이메일</i>][naver]  
->>[<i>구글이메일</i>][google]
+>>[<i>네이버이메일보내기</i>][naver]  
+>>[<i>구글이메일보내기</i>][google]
 
 [naver]:http://qo6111@naver.com
 [google]:http://qo61111@gmail.com
