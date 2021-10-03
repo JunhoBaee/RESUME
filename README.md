@@ -21,6 +21,10 @@
 * 오픈소스
 * 딥러닝
 * 블록체인
+
+![sunflower icon](/해바라기.jpg)
+
+<img src=해바라기.jpg width=200 height=300>
 ----------------
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)
