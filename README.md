@@ -81,12 +81,6 @@
 |7||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 |8||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 
->* 구현 가능한 시스템 목록 적기
-
->* 성적 잘나온 
-
-
 
 [github]:http://github.com/JunhoBaee/
-[naver]:http://qo6111@naver.com
-[google]:http://qo61111@gmail.com
+
