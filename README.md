@@ -11,6 +11,11 @@
 ## 활동 사진
 >* 창업 후 활동 내역
 
+--- 사업자 활동 ---
+
+<img src=구래구래.jpg width=400 height=300>
+<img src=쭈노마켓.jpg width=400 height=300>
+
 ---약 6개월동안의 전자기기 수리량입니다.---
 
 <img src=약6개월작업량.jpg width=400 height=300>
@@ -18,6 +23,9 @@
 ---깃허브 활동기록---
 
 <img src= commit.png width=900 height=300>
+
+
+
 
 
 
