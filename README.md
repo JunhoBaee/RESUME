@@ -3,7 +3,7 @@
 
 ## 소개
 
-<img src=증명사진.jpg width=100 height=120>
+<img src=증명사진.jpg width=110 height=120>
 
 ---
 
