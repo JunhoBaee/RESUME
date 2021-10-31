@@ -14,7 +14,7 @@
 ---
 
 
->깃허브 활동기록
+## 깃허브 활동기록
 
 <img src= commit.png width=900 height=250>
 
