@@ -95,8 +95,9 @@
 |7||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 |8||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 
+<img src= 깃허브.png width=50 height=50>
 >준호의 github
-<img src= 깃허브.jpg width=50 height=50> [github]
+ [github]
 
 [github]:http://github.com/JunhoBaee/
 
