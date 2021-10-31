@@ -28,7 +28,7 @@
 
 ### 프로그래밍 언어 스킬
 
-<img src= C언어.png width=70 height=50> <img src= 자바.png width=70 height=50> <img src= 파이썬.png width=70 height=50> <img src= R언어.png width=70 height=50> <img src= HTML.png width=70 height=50>
+<img src= C언어.png width=70 height=50> <img src= 자바.png width=70 height=50> <img src= 파이썬.png width=70 height=50> <img src= R언어.png width=70 height=50> <img src= HTML.png width=100 height=50>
 
 >1. C
 >2. JAVA
