@@ -5,12 +5,9 @@
 
 <img src=증명사진.jpg width=100 height=120>
 
-<h6>배준호</h6>
-
----
-
-## <strong>소속: 소프트웨어융합대학 4학년</strong>  
-## <strong>전공: 컴퓨터공학과</strong>  
+### 이름: 배준호
+### <strong>소속: 소프트웨어융합대학 4학년</strong>  
+### <strong>전공: 컴퓨터공학과</strong>  
 
 
 
