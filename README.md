@@ -58,9 +58,6 @@
 <img src= commit.png width=900 height=300>
 
 ---
->github
-[github]
-
 
 <h2><i>2021-2학기 시간표</i></h2>
 
@@ -79,6 +76,8 @@
 |7||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 |8||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 
+>준호의 github
+[github]
 
 [github]:http://github.com/JunhoBaee/
 
