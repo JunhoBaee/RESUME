@@ -13,8 +13,7 @@
 
 --- 사업자 활동 ---
 
-<img src=구래구래.jpg width=400 height=300>
-<img src=쭈노마켓.jpg width=400 height=300>
+<img src=구래구래.jpg width=300 height=400> <img src=쭈노마켓.jpg width=300 height=400>
 
 ---약 6개월동안의 전자기기 수리량입니다.---
 
