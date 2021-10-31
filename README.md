@@ -94,10 +94,7 @@
 |6|소프트웨어특강II||||오픈소스SW개발도구활용|
 |7||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
 |8||컴퓨터구조||컴퓨터구조|오픈소스SW개발도구활용|
-
+---
 <img src= 깃허브.png width=50 height=50>
->준호의 github
- [github]
-
 [github]:http://github.com/JunhoBaee/
 
