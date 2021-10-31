@@ -27,6 +27,9 @@
 
 
 ### 프로그래밍 언어 스킬
+
+<img src= C언어.png width=70 height=50>
+
 >1. C
 >2. JAVA
 >3. Python
