@@ -15,6 +15,9 @@
 
 <img src=약6개월작업량.jpg width=400 height=300>
 
+---깃허브 활동기록---
+
+<img src= commit.jpg width=1200 height=300>
 
 
 
