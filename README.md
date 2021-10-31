@@ -43,7 +43,7 @@
 * 2021 8월~ 소프트웨어 관련 종목 추가 창업
 
 ## 활동 사진
->* 창업 후 활동 내역
+>* 활동 내역
 
 > 사업자 활동
 
@@ -56,6 +56,11 @@
 >깃허브 활동기록
 
 <img src= commit.png width=900 height=300>
+
+>휴대폰 커스터마이징
+
+<img src=아이폰SE1밀키베이지.jpg width=300 height=400>   <img src=아이폰SE1커스터마이징.jpg width=300 height=400>
+
 
 ---
 
