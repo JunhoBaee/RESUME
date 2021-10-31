@@ -12,7 +12,8 @@
 
 ### 창업 후 활동 내역
 
-<img src=약6개월작업량.jpg width=200 height=300>
+약 6개월동안의 전자기기 수리량입니다.
+<img src=약6개월작업량.jpg width=400 height=300>
 
 
 ### 현재 하는 일
