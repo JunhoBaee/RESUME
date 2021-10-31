@@ -17,6 +17,9 @@
 
 
 
+![깃허브](https://github.com/JunhoBaee/RESUME/raw/master/images/github.png)
+
+
 ### 현재 하는 일
 >* 휴대폰수리
 >* 코딩
