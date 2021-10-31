@@ -17,7 +17,7 @@
 
 ---깃허브 활동기록---
 
-<img src= commit.jpg width=1200 height=300>
+<img src= commit.jpg width=900 height=300>
 
 
 
