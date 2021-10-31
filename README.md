@@ -1,7 +1,7 @@
 # 이력서
 
 
-## 
+## 소개
 
 <img src=증명사진.jpg width=100 height=120>
 <h1>배준호</h1>
