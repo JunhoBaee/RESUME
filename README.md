@@ -11,7 +11,7 @@
 ## 활동 사진
 >* 창업 후 활동 내역
 
---- 사업자 활동 ---
+> 사업자 활동
 
 <img src=구래구래.jpg width=300 height=400> <img src=쭈노마켓.jpg width=300 height=400>
 
