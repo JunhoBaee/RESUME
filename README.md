@@ -12,12 +12,13 @@
 >* 창업 후 활동 내역
 
 ---약 6개월동안의 전자기기 수리량입니다.---
+
 <img src=약6개월작업량.jpg width=400 height=300>
 
 
 
 
-![깃허브](https://github.com/JunhoBaee/RESUME/raw/master/images/github.png)
+
 
 
 ### 현재 하는 일
