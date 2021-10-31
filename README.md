@@ -10,6 +10,10 @@
 ### <strong>전공: 컴퓨터공학과</strong>  
 
 
+>깃허브 활동기록
+
+<img src= commit.png width=900 height=300>
+
 ## 현재 하는 일
 - 휴대폰수리
 - 코딩
@@ -54,9 +58,6 @@
 
 <img src=약6개월작업량.jpg width=400 height=300>
 
->깃허브 활동기록
-
-<img src= commit.png width=900 height=300>
 
 >휴대폰 커스터마이징
 
