@@ -59,7 +59,7 @@
 
 >휴대폰 커스터마이징
 
-<img src=아이폰SE1밀키베이지.jpg width=300 height=400>   <img src=아이폰SE1커스터마이징.jpg width=300 height=400>
+<img src=아이폰SE1밀키베이지.jpg width=300 height=400>   <img src=아이폰SE1커스터마이징.jpg width=400 height=300>
 
 
 ---
